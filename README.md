@@ -104,7 +104,8 @@ plt.show()
 
 ![Ex-2-Output](https://github.com/user-attachments/assets/d456b740-34a8-4f34-89b0-49a973c4fe6b)
 
-![Ex-2-Chart](https://github.com/user-attachments/assets/7d0528b4-c12f-4506-93ed-8167a2bceb43)
+![Ex-2-Chart](https://github.com/user-attachments/assets/cf8ac753-6ef2-4c90-8405-bb6ceb53a479)
+
 
 
 
